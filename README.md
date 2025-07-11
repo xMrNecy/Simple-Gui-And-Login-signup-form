@@ -30,7 +30,7 @@ python main.py
 ## 📁 File Structure
 
 ```plaintext
-├── login_signup.py        # Handles login and signup logic
+├── main.py                # Handles login and signup logic
 ├── Profiles.json          # Stores user credentials (hashed)
 ├── Outfit-Medium.ttf      # Custom font file for UI
 ├── README.md              # Project documentation
@@ -45,4 +45,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🤝 Contributions
 
 Pushes are welcome! If you have ideas or improvements, feel free to fork and PR.
-
