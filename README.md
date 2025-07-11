@@ -30,11 +30,10 @@ python main.py
 ## 📁 File Structure
 
 ```plaintext
-├── main.py                # Handles login and signup logic
+├── main.py                # App entry point
 ├── Profiles.json          # Stores user credentials (hashed)
 ├── Outfit-Medium.ttf      # Custom font file for UI
-├── README.md              # Project documentation
-└── main.py                # App entry point (adjust if named differently)
+└──README.md              # Project documentation
 ```
 
 ## 📄 License
