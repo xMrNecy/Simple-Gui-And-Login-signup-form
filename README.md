@@ -33,7 +33,7 @@ python main.py
 ├── main.py                # App entry point
 ├── Profiles.json          # Stores user credentials (hashed)
 ├── Outfit-Medium.ttf      # Custom font file for UI
-└──README.md              # Project documentation
+└── README.md              # Project documentation
 ```
 
 ## 📄 License
